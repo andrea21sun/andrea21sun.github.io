@@ -4,13 +4,6 @@ html {
   
 }
 
-p {
-
-color: red;
-
-}
-
-
 
 h1 {
   font-size: 60px;
@@ -23,7 +16,11 @@ p, li {
   letter-spacing: 1px;
 }
 
+p {
 
+color: red;
+
+}
 
 
 html {
